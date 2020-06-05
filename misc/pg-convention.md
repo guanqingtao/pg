@@ -641,5 +641,3 @@ $function$;
 * 完成后执行`vacuum verbose analyze table`。
 
 
-
-【未完待续】
